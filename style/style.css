@@ -10,6 +10,7 @@ body{
     }
     .carousel-item img{
         height: 100%;
+        width: 100%;
     }
     .para{
         font-size: 14px;
