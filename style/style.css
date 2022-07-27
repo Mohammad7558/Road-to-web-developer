@@ -6,7 +6,7 @@ body{
 
 @media screen and (max-width: 576px) {
     .carousel-item{
-        height: 30vh;
+        height: 50vh;
     }
     .carousel-item img{
         height: 100%;
